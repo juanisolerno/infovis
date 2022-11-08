@@ -6,7 +6,7 @@ Data: mom2022w44
 
 [Visualización en Tableau] (https://juanisolerno.github.io/infovis/s1/mom2022w44_tableau.html)
 
-Visualización en :
+[Visualización en Raw Graph] (https://juanisolerno.github.io/infovis/s1/mom2022w44_rawgraph_circlepacking.html)
 
-Visualización en :
+[Visualización en Observable] (https://juanisolerno.github.io/infovis/s1/mom2022w44_observable_scatter.html)
 

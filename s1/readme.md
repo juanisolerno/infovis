@@ -7,9 +7,8 @@ Ensayo 'holamundo':
 https://juanisolerno.github.io/infovis/s1/holamundo.html
 
 
-Visualización en Tableau:
-
-* [tableau] (https://juanisolerno.github.io/infovis/s1/mom2022w44_tableau.html)
+Visualización en Tableau
+(https://juanisolerno.github.io/infovis/s1/mom2022w44_tableau.html)
 
 
 

@@ -9,7 +9,7 @@ https://juanisolerno.github.io/infovis/s1/holamundo.html
 
 Visualización en Tableau:
 
-https://juanisolerno.github.io/infovis/s1/mom2022w4_tableau.html
+https://juanisolerno.github.io/infovis/s1/mom2022w44_tableau.html
 
 
 

@@ -2,4 +2,4 @@
 
 **mom2022w44**
 
-[Tableau](https://juanisolerno.github.io/infovis/s1/mom2022w44_tableau.html)
+[Tableau](https://juanisolerno.github.io/infovis/s2/mom2022w45_tableau.html)

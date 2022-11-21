@@ -6,7 +6,5 @@ Instituto Tecnológico de Buenos Aires
 
 Profesor: Ariel Aizemberg
 
-Descripción:
-
 Cada carpeta corresponde a una semana de trabajo
 

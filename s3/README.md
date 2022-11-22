@@ -2,10 +2,13 @@
 
 **mom2022w45**
 
-[Tableau](https://juanisolerno.github.io/infovis/s2/mom2022w46_tableau_par.html)
+[Tableau](https://juanisolerno.github.io/infovis/s3/mom2022w46_tableau_par.html)
 
-[VegaAPI](https://juanisolerno.github.io/infovis/s2/mom2022w46_VegaAPI.html)
+[VegaAPI](https://juanisolerno.github.io/infovis/s3/mom2022w46_VegaAPI.html)
 
 [GoogleColabDuckDB](https://colab.research.google.com/drive/1tDv477I0D8IjV1H6PjiqyMrGuqZpxAnx)
 
 [GoogleColabAltair](https://colab.research.google.com/drive/164g6gys6lNjQmYnBgA6QbamcJGYwPPF1?usp=sharing)
+
+[Altair](https://juanisolerno.github.io/infovis/s3/mom2022w46_altair.html)
+

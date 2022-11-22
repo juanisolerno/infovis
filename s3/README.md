@@ -1,8 +1,7 @@
 # Semana 3
 
-**mom2022w46**
+**mom2022w46 & COVID**
 
-**COVIDcases**
 
 [Tableau](https://juanisolerno.github.io/infovis/s3/mom2022w46_tableau_par.html)
 

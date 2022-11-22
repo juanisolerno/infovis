@@ -10,4 +10,4 @@
 
 [vega-lite_lines](https://juanisolerno.github.io/infovis/s2/mom2022w45_linechart.html)
 
-[vega-lite_smallmultiples] (https://juanisolerno.github.io/infovis/s2/mom2022w45_smallmultiples.html)
+[vega-lite_smallmultiples](https://juanisolerno.github.io/infovis/s2/mom2022w45_smallmultiples.html)

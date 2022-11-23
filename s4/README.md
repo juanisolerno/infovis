@@ -2,6 +2,6 @@
 
 **Análisis Datos +MANOS RCP & Primeros Auxilios**
 
-[Tableau](https://juanisolerno.github.io/infovis/s4/masmanos_tableau.html
+[Tableau](https://juanisolerno.github.io/infovis/s4/masmanos_tableau.html)
 
-[ObservableHQ](https://juanisolerno.github.io/infovis/s4/masmanos_observablehq.html
+[ObservableHQ](https://juanisolerno.github.io/infovis/s4/masmanos_observablehq.html)
